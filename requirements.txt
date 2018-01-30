@@ -1,2 +1,2 @@
-Django==2.0.1
+Django==1.11.9
 nltk==3.2.5
